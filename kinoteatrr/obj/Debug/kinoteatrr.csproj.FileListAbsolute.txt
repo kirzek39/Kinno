@@ -1,0 +1,109 @@
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\kinoteatrr.exe.config
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\kinoteatrr.exe
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\kinoteatrr.pdb
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\Google.Protobuf.dll
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\MySql.Data.dll
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\System.Buffers.dll
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\System.Memory.dll
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\ZstdNet.dll
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\Google.Protobuf.xml
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\MySql.Data.xml
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\System.Buffers.xml
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\System.Memory.xml
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.Form1.resources
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.Properties.Resources.resources
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.GenerateResource.cache
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.CopyComplete
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.exe
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.pdb
+C:\Users\Kirill\Desktop\Новая папка (2)\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.Form2.resources
+D:\kinoteatrr\kinoteatrr\bin\Debug\kinoteatrr.exe.config
+D:\kinoteatrr\kinoteatrr\bin\Debug\kinoteatrr.exe
+D:\kinoteatrr\kinoteatrr\bin\Debug\kinoteatrr.pdb
+D:\kinoteatrr\kinoteatrr\bin\Debug\BouncyCastle.Crypto.dll
+D:\kinoteatrr\kinoteatrr\bin\Debug\Google.Protobuf.dll
+D:\kinoteatrr\kinoteatrr\bin\Debug\K4os.Compression.LZ4.dll
+D:\kinoteatrr\kinoteatrr\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\kinoteatrr\kinoteatrr\bin\Debug\K4os.Hash.xxHash.dll
+D:\kinoteatrr\kinoteatrr\bin\Debug\MySql.Data.dll
+D:\kinoteatrr\kinoteatrr\bin\Debug\System.Buffers.dll
+D:\kinoteatrr\kinoteatrr\bin\Debug\System.Memory.dll
+D:\kinoteatrr\kinoteatrr\bin\Debug\System.Numerics.Vectors.dll
+D:\kinoteatrr\kinoteatrr\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\kinoteatrr\kinoteatrr\bin\Debug\Ubiety.Dns.Core.dll
+D:\kinoteatrr\kinoteatrr\bin\Debug\ZstdNet.dll
+D:\kinoteatrr\kinoteatrr\bin\Debug\BouncyCastle.Crypto.xml
+D:\kinoteatrr\kinoteatrr\bin\Debug\Google.Protobuf.pdb
+D:\kinoteatrr\kinoteatrr\bin\Debug\Google.Protobuf.xml
+D:\kinoteatrr\kinoteatrr\bin\Debug\K4os.Compression.LZ4.xml
+D:\kinoteatrr\kinoteatrr\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\kinoteatrr\kinoteatrr\bin\Debug\K4os.Hash.xxHash.xml
+D:\kinoteatrr\kinoteatrr\bin\Debug\MySql.Data.xml
+D:\kinoteatrr\kinoteatrr\bin\Debug\System.Buffers.xml
+D:\kinoteatrr\kinoteatrr\bin\Debug\System.Memory.xml
+D:\kinoteatrr\kinoteatrr\bin\Debug\System.Numerics.Vectors.xml
+D:\kinoteatrr\kinoteatrr\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.AssemblyReference.cache
+D:\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.SuggestedBindingRedirects.cache
+D:\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.Form1.resources
+D:\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.Form2.resources
+D:\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.Properties.Resources.resources
+D:\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.GenerateResource.cache
+D:\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.CoreCompileInputs.cache
+D:\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.CopyComplete
+D:\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.exe
+D:\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.pdb
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\kinoteatrr.exe.config
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\kinoteatrr.exe
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\kinoteatrr.pdb
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\Google.Protobuf.dll
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\MySql.Data.dll
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\System.Buffers.dll
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\System.Memory.dll
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\ZstdNet.dll
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\Google.Protobuf.xml
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\MySql.Data.xml
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\System.Buffers.xml
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\System.Memory.xml
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.Form1.resources
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.Form2.resources
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.Properties.Resources.resources
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.GenerateResource.cache
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.csproj.CopyComplete
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.exe
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.pdb
+C:\Users\Kirill\Desktop\kinoteatrr\kinoteatrr\obj\Debug\kinoteatrr.Form3.resources
